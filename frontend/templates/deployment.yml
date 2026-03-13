@@ -3,7 +3,7 @@ kind: StatefulSet
 metadata:
   name: react-deploy
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: react-app
