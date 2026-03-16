@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: backend-config
 data:
-  DB_HOST: "174.138.27.4"     # your docker DB IP OR service name
+  DB_HOST: "4.186.31.63"     # your docker DB IP OR service name
   DB_PORT: "3306"
   DB_NAME: "mydb"
   PORT: "5000"
