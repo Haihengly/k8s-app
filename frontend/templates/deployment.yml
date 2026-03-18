@@ -14,6 +14,6 @@ spec:
     spec: 
       containers:
       - name: react-app
-        image: haihengly/react-app:29
+        image: haihengly/react-app:74
         ports:
         - containerPort: 80
